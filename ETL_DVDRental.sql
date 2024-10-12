@@ -1,5 +1,6 @@
 #María Fernanda Hernández Chocochic
 #carnet: 999013211
+#link github: https://github.com/mofhc/Portafolio-Introducci-n-Data-Anal-tica/blob/main/ETL_DVDRental.sql
 
 #Rentas de peliculas
 --Rental fct
