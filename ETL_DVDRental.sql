@@ -1,16 +1,5 @@
-select count(*)
-from actor
-
-select count(*)
-from rental r 
-
-select *
-from country c 
-inner join city cy on c.country_id = cy.country_id 
-
-
-#analizar la información y proponer esas entidades... de la tabla de hechos.
-
+#María Fernanda Hernández Chocochic
+#carnet: 999013211
 
 #Rentas de peliculas
 --Rental fct
